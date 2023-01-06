@@ -1,0 +1,21 @@
+.App {
+  text-align: center;
+  background-color: #282c34;
+  min-height: 100vh;
+}
+
+.calculator {
+  background-color: #2389b1;
+  width: 75%;
+}
+
+.displayScreen {
+  background-color: #2389b1;
+  font-size: x-large;
+}
+
+.operators {
+  background-color: #2389b1;
+  width: 50%;
+  margin-top: 1em;
+}
